@@ -1,51 +1,67 @@
-<br clear="both">
+## Hi there! 👋
 
-<h2 align="left">Hi 👋! My name is Purna Lakshitha and I'm a Software Developer, from Sri Lanka</h2>
+I'm **Purna Lakshitha**, an undergraduate student pursuing a BSc (Hons) in Information Technology at SLIIT. I'm passionate about coding and technology, and I'm excited to share my projects and ideas with you!
 
-###
+## About Me
 
-<br clear="both">
+🌍 Based in Kurnegala, Sri Lanka, I am an aspiring software developer with a keen interest in web development and programming. I love learning new technologies and applying them to real-world problems.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Skills & Technologies
 
-###
+ableton,actix,adonis,ae,anaconda
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appcelerator/appcelerator-original.svg" height="30" alt="appcelerator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-</div>
+## Top Projects
 
-###
+Here are some of my notable projects:
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-</div>
+- [**Hotel Management Frontend**](https://github.com/purnalakshitha99/hotel-management-front-end)  
+  A modern web application for managing hotel operations.  
+  ⭐ 0 Stars | 💻 JavaScript | 🍴 0 Forks | 🚪 0 Issues  
 
-###
+- [**Introduction to Express.js Hotel Management API**](https://github.com/purnalakshitha99/introduction-to-express-js-hotel-management-api)  
+  A backend API to manage hotel data using Express.js.  
+  ⭐ 0 Stars | 💻 JavaScript | 🍴 0 Forks | 🚪 0 Issues  
+
+- [**Health Information System**](https://github.com/purnalakshitha99/health_information_system)  
+  A comprehensive system for managing health-related information.  
+  ⭐ 0 Stars | 💻 Java | 🍴 0 Forks | 🚪 0 Issues  
+
+- [**Edu Smart API**](https://github.com/purnalakshitha99/edu-smart-api)  
+  An educational API designed to provide information on various courses and institutions.  
+  ⭐ 0 Stars | 💻 Jupyter Notebook | 🍴 0 Forks | 🚪 0 Issues
+
+## GitHub Stats
+
+🏆 **Public Repositories**: 51  
+👥 **Followers**: 14  
+🔄 **Following**: 38  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purnalakshitha99&show_icons=true&theme=radical)
+
+## Recent Activity
+
+Here's a glimpse of my recent GitHub activities:
+
+- Pushed changes to [**hotel-management-front-end**](https://github.com/purnalakshitha99/hotel-management-front-end)
+- Closed pull request #7 for UI enhancements
+- Merged pull request #6 to improve header styling
+- Updated repository [**edu-smart-api**](https://github.com/purnalakshitha99/edu-smart-api)
+- Contributed to [**healthy_life_api**](https://github.com/purnalakshitha99/healthy_life_api)
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts, but stay tuned for updates!
+
+## Connect with Me
+
+{"twitter":"https://twitter.com/lakshitha_purna","instagram":"https://www.instagram.com/purna_lakshitha/","linkedin":"https://www.linkedin.com/in/purna-lakshitha-063714218/"}
+
+## ASCII Art
+
+```
+                               _       _        _     _ _   _            ___   ___  
+  _ __  _   _ _ __ _ __   __ _| | __ _| | _____| |__ (_) |_| |__   __ _ / _ \ / _ \ 
+ | '_ \| | | | '__| '_ \ / _` | |/ _` | |/ / __| '_ \| | __| '_ \ / _` | (_) | (_) |
+ | |_) | |_| | |  | | | | (_| | | (_| |   <\__ \ | | | | |_| | | | (_| |\__, |\__, |
+ | .__/ \__,_|_|  |_| |_|\__,_|_|\__,_|_|\_\___/_| |_|_|\__|_| |_|\__,_|  /_/   /_/ 
+ |_|                                                                                
+```
