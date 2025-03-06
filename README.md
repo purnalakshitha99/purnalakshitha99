@@ -8,7 +8,7 @@ I'm **Purna Lakshitha**, an undergraduate student pursuing a BSc (Hons) in Infor
 
 ## Skills & Technologies
 
-ableton,actix,adonis,ae,anaconda
+Spring Boot,Hibernate,Spring Security,Flyway DB Migration,MYSQL,PRISMA,MERN Stack
 
 ## Top Projects
 
