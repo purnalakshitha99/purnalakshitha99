@@ -8,7 +8,7 @@ I'm **Purna Lakshitha**, an undergraduate student pursuing a BSc (Hons) in Infor
 
 ## Skills & Technologies
 
-Spring Boot,Hibernate,Spring Security,Flyway DB Migration,MYSQL,PRISMA,Mongo DB,Express,React,Node js
+Spring Boot,Hibernate,Spring Security,Flyway DB Migration,MYSQL,PRISMA,Mongo DB,Express,React,Node js, Prisma ORM
 
 ## Top Projects
 
