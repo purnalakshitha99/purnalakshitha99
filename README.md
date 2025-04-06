@@ -6,7 +6,7 @@ I'm **Purna Lakshitha**, an undergraduate student pursuing a BSc (Hons) in Infor
 
 🌍 Based in Kurnegala, Sri Lanka, I am an aspiring software developer with a keen interest in web development and programming. I love learning new technologies and applying them to real-world problems.
 
-## Skills & Technologies
+## Skills & New Technologies
 
 Spring Boot,Hibernate,Spring Security,Flyway DB Migration,MYSQL,PRISMA,Mongo DB,Express,React,Node js, Prisma ORM
 
